@@ -1,0 +1,1 @@
+this code will convert the 1d extracted data into 2d image , using algorithm called continious wavelet transformation. i have added 3 file for class B,C,D and for class A you can change(classA =x.d1;);
